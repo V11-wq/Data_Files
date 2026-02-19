@@ -1,0 +1,6 @@
+Transaction_ID,Date,Customer,Category,Units,Unit_Price,Total_Revenue
+1001,1/10/2026,TechCorp,Hardware,5,120,600
+1002,1/12/2026,Sarah Jenks,Software,1,450,450
+1003,1/15/2026,GreenLine,Services,10,75,750
+1004,1/18/2026,TechCorp,Hardware,2,120,240
+1005,1/20/2026,Mike Ross,Software,3,450,1350
