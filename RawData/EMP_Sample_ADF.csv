@@ -1,0 +1,21 @@
+id,name,age,city,salary,department,join_date,status
+1,Alice,25,New York,50000,HR,44576,Active
+2,Bob,30,Chicago,60000,IT,44367,Active
+3,Charlie,,Dallas,55000,Finance,43900,Inactive
+4,David,28,,62000,IT,44958,Active
+5,Eva,35,Seattle,,HR,43794,Inactive
+6,Frank,40,Boston,72000,Operations,43311,Active
+7,Grace,27,Austin,48000,,44816,Active
+8,Hannah,,San Jose,51000,Finance,44535,Inactive
+9,Ian,31,Denver,59000,IT,,Active
+10,Jack,29,Miami,61000,Marketing,44061,Active
+11,Kathy,33,Atlanta,53000,HR,43607,Inactive
+12,Leo,26,,47000,Marketing,44936,Active
+13,Mona,38,Phoenix,,Finance,42828,Inactive
+14,Nina,24,Los Angeles,45000,HR,44726,Active
+15,Oscar,,Houston,68000,Operations,43382,Active
+16,Paul,45,Chicago,80000,Management,,Active
+17,Quinn,32,New York,64000,,44282,Inactive
+18,Rita,28,Seattle,52000,Finance,44176,Active
+19,Sam,36,Dallas,70000,IT,43727,Inactive
+20,Tina,,Boston,56000,Marketing,44658,Active
